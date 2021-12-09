@@ -15,7 +15,7 @@ Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é po
 No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. 
 Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
 
-- [Vusualizar o Projeto](https://xyianx.000webhostapp.com/)
+- [Visualizar o Projeto](https://xyianx.000webhostapp.com/)
 
 <p align="center"><img src="./src/assets/images/tela1.png" title="Jogo de Naves - Tela1"></p>
 <p align="center"><img src="./src/assets/images/tela2.png" title="Jogo de Naves - Tela2"></p>
